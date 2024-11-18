@@ -1,5 +1,5 @@
 Privacy Policy
-Effective Date: [Insert Date]
+Effective Date: 11/18/2024
 
 TANG TENSOR TRENDS LLC ("Provider") is committed to protecting the privacy of your information. This Privacy Policy outlines how data is collected, used, and protected in connection with the QuickBooks Integration Tool ("Tool"). By using the Tool, you agree to the practices described in this Privacy Policy.
 
