@@ -1,4 +1,5 @@
 Privacy Policy
+
 Effective Date: 11/18/2024
 
 TANG TENSOR TRENDS LLC ("Provider") is committed to protecting the privacy of your information. This Privacy Policy outlines how data is collected, used, and protected in connection with the QuickBooks Integration Tool ("Tool"). By using the Tool, you agree to the practices described in this Privacy Policy.
@@ -43,7 +44,7 @@ To exercise these rights, contact us at brysontang@gmail.com.
 
 7. Third-Party Services
 
-The Tool interacts with QuickBooks Online through their API. By using the Tool, you also agree to QuickBooks’ Privacy Policy, available at [QuickBooks Privacy Policy URL].
+The Tool interacts with QuickBooks Online through their API. By using the Tool, you also agree to QuickBooks’ Privacy Policy, available at [QuickBooks Privacy Policy](https://quickbooks.intuit.com/hk/privacy/).
 
 8. Changes to This Privacy Policy
 
@@ -51,6 +52,6 @@ We may update this Privacy Policy from time to time. Changes will be communicate
 
 9. Contact Information
 
-If you have questions or concerns about this Privacy Policy, contact us at: [Your LLC Name]
-Email: [Your Email Address]
-Address: [Your Business Address]
+If you have questions or concerns about this Privacy Policy, contact us at: TANG TENSOR TRENDS LLC
+
+Email: brysontang@gmail.com
