@@ -51,7 +51,7 @@ Upon termination, User agrees to cease using the Tool and remove all related cod
 
 10. Governing Law
 
-This Agreement shall be governed by the laws of [Your State], without regard to conflict of law principles.
+This Agreement shall be governed by the laws of NH, without regard to conflict of law principles.
 
 11. Entire Agreement
 
